@@ -1,0 +1,12 @@
+PASS wiremock/tests/payment.test.ts
+  WireMock payment tests
+    √ Successful payment (60 ms)
+    √ Card declined (6 ms)
+    √ Request timeout (2020 ms)
+    √ Server error (7 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        2.24 s, estimated 3 s
+Ran all test suites.
